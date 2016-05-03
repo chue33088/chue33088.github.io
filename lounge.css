@@ -1,0 +1,31 @@
+p.titlecolor{
+	color:aquamarine;
+}
+
+p.thehead{
+	content:30px;
+	padding:30px;
+	width:30%;
+}
+
+p.guarantee{
+	content:40px;
+	padding:30px;
+	background-color: aquamarine;
+	border-width:5px;
+	border-style:solid;
+	border-color:white;
+	width:30%;
+	border-style:dashed;
+	background-image:url(images/star.png);
+	background-size:30px;
+	background-position:left;
+	background-repeat: no-repeat;
+
+}
+
+p.butthat{
+	content:30px;
+	padding:30px;
+	width:30%;
+}
